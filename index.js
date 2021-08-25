@@ -3,7 +3,7 @@ const fs = require('fs');
 const http = require('http');
 const https = require('https');
 const express = require('express');
-const wsrtcServer = require('./wsrtc-server.js');
+const wsrtcServer = require('wsrtc/wsrtc-server.js');
 
 const fullchainPath = './certs/fullchain.pem';
 const privkeyPath = './certs/privkey.pem';
