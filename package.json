@@ -19,7 +19,7 @@
   "homepage": "https://github.com/webaverse/worlds-backend",
   "dependencies": {
     "forever": "^4.0.1",
-    "wsrtc": "^0.0.3"
+    "wsrtc": "^0.0.4"
   },
   "browserslist": [
     "last 1 chrome version"
